@@ -11,6 +11,12 @@ body {
   font-family: 'Angelic', sans-serif !important;
 }
 
-.markdown-preview-view, .markdown-source-view, .markdown-preview-section, .markdown-preview-sizer, p, span, li, h1, h2, h3, h4, h5, h6 {
+
+body, main, article, section, header, footer,
+.markdown-preview-view, .markdown-preview-section, 
+h1, h2, h3, h4, h5, h6,
+p, li, span, div, blockquote, code, em, strong {
   font-family: 'Angelic', sans-serif !important;
+  letter-spacing: 0.5px;
+  line-height: 1.6;
 }

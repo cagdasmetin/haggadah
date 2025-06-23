@@ -47,3 +47,6 @@ jobs:
 site:
   title: Haggadah
   css: publish.css
+
+site:
+  index: haggadah.md
