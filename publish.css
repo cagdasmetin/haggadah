@@ -8,5 +8,9 @@
 }
 
 body {
-  font-family: 'Angelic', serif;
+  font-family: 'Angelic', sans-serif !important;
+}
+
+.markdown-preview-view, .markdown-source-view, .markdown-preview-section, .markdown-preview-sizer, p, span, li, h1, h2, h3, h4, h5, h6 {
+  font-family: 'Angelic', sans-serif !important;
 }
